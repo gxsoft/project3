@@ -16,6 +16,6 @@ Git FEHCTCH + git MERGE = Git PULL
 ------------------------------------------------------------------------------------------------
 Work Directory / Freddy Lessons 
 Revision 5th of...
-
+goto staging >> Repositorio LOCAL.
 
 
