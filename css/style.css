@@ -63,3 +63,19 @@ body
 {
     font-size: 20px;
 }
+
+.footer {
+    font-size:5px;
+    font-weight: normal;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#emphasis {
+    background: lightyellow;
+    font-style: italic;
+  }
+.emphasis {
+    background: lightyellow;
+    font-style: italic;
+  }
