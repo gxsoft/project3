@@ -3,14 +3,22 @@ title
     color:rgb(250, 189, 45);
     background-color:rgb(250, 189, 45))
     text-align: left;
+<<<<<<< HEAD
     font-family:Courier, monospace;
+=======
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+>>>>>>> cabecera
     
 }
 body
 {
     color: rgb(43, 8, 241);
     text-align:center;
+<<<<<<< HEAD
     font-family:Courier, monospace;
+=======
+    font-family:"Verdana";
+>>>>>>> cabecera
     font-size: 16px; 
     margin: 0;
     padding: 0;
@@ -62,6 +70,7 @@ body
 #container h1
 {
     font-size: 20px;
+<<<<<<< HEAD
 }
 
 .footer {
@@ -79,3 +88,6 @@ body
     background: lightyellow;
     font-style: italic;
   }
+=======
+}
+>>>>>>> cabecera

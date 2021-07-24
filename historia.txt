@@ -1,0 +1,21 @@
+history.txt
+
+Hi style css git add 
+Staging 
+Git commit from Staging >> Repositorio LOCAL.
+------------------------------------------------------------------------------------------------
+GitHub / GitLab/ others 
+
+Git CLONE <url> (get repostiry to repository local)
+and then
+
+Git PUSH <url> (when I am ready to send my local changes)
+
+
+Git FEHCTCH + git MERGE = Git PULL 
+------------------------------------------------------------------------------------------------
+Work Directory / Freddy Lessons 
+Revision 5th of...
+goto staging >> Repositorio LOCAL.
+
+
