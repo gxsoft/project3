@@ -1,6 +1,7 @@
 body
 {
-    color:#333;
+    color:rgb(250, 189, 45);
+    background-color:rgb(250, 189, 45))
     text-align: left;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
@@ -12,4 +13,10 @@ body
     padding: 1lem;
     text-align: left;
     border: 1px solid #ddd;
+}
+
+#container h1
+{
+    font-size: 72px;
+    text-align: center;
 }
