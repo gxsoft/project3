@@ -1,7 +1,15 @@
 body
 {
-    color:deeppink;
-    text-align: center;
+    color:#333;
+    text-align: left;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
+}
+
+#container
+{
+    width: 70%;
+    padding: 1lem;
+    text-align: left;
+    border: 1px solid #ddd;
 }
