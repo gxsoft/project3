@@ -3,23 +3,15 @@ title
     color:rgb(250, 189, 45);
     background-color:rgb(250, 189, 45))
     text-align: left;
-<<<<<<< HEAD
-    font-family:Courier, monospace;
-=======
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
->>>>>>> cabecera
     
 }
 body
 {
     color: rgb(43, 8, 241);
     text-align:center;
-<<<<<<< HEAD
-    font-family:Courier, monospace;
-=======
     font-family:"Verdana";
->>>>>>> cabecera
-    font-size: 16px; 
+    font-size: 12px; 
     margin: 0;
     padding: 0;
 }
@@ -28,9 +20,9 @@ body
             https://html-css-js.com/css/generator/box-shadow/
             */
 {
-    background: rgb(241, 149, 43);
+    background: rgb(64, 187, 7);
     color: white;
-    font-weight: bold;
+    font-weight:
     margin: 0;
     padding: 0.5em;
     /* BOX SHADOW */
@@ -57,8 +49,6 @@ body
     font-weight: normal;
     font-size:0.8em;
 }
-
-
 #container
 {
     width: 70%;
