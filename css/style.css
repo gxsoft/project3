@@ -3,22 +3,14 @@ title
     color:rgb(250, 189, 45);
     background-color:rgb(250, 189, 45))
     text-align: left;
-<<<<<<< HEAD
     font-family:Courier, monospace;
-=======
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
->>>>>>> cabecera
     
 }
 body
 {
     color: rgb(43, 8, 241);
     text-align:center;
-<<<<<<< HEAD
-    font-family:Courier, monospace;
-=======
     font-family:"Verdana";
->>>>>>> cabecera
     font-size: 16px; 
     margin: 0;
     padding: 0;
@@ -28,7 +20,7 @@ body
             https://html-css-js.com/css/generator/box-shadow/
             */
 {
-    background: rgb(241, 149, 43);
+    background: rgb(43, 76, 241);
     color: white;
     font-weight: bold;
     margin: 0;
