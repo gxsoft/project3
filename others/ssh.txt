@@ -1,0 +1,5 @@
+// Para crear la Llave pública y privadas
+ssh-keygen -t rsa -b 4096 -C "gxsoft@gmail.com"
+/e/platzi/ssh/.ssh
+eval $(ssh-agent -s)
+ssh-add /e/platzi/ssh/.ssh/id_rsa
