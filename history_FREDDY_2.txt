@@ -1,0 +1,500 @@
+  106  git commit -am "PUDE hacer algo que NO podia, pull the Unrelated=histories con el commando git: $ [git pull origin main --allow-unrelated-histories]"
+  107  git push
+  108  git push --set-upstream origin main
+  109  code .
+  110  code .
+  111  git pull
+  112  git branch
+  113  cd
+  114  cd /e
+  115  cd platzi
+  116  ls
+  117  cd git
+  118  ls
+  119  git config -l
+  120  e/
+  121  cd /e
+  122  cd /platzi/ssh
+  123  cd /platzi
+  124  cd
+  125  cd /e
+  126  pwd
+  127  cd platzi
+  128  cd ssh
+  129  ssh-keygen -t rsa -b 4096 -C "gxsoft@gmail.com"
+  130  eval $(ssh-agent -s)
+  131  mc
+  132  cd /e/platzi/ssh
+  133  pwd
+  134  ~
+  135  cd/
+  136  cd /
+  137  cd ~
+  138  ~
+  139  cd /e/platzi/ssh
+  140  pwd
+  141  cd ..
+  142  ls -al
+  143  cd git
+  144  ls -al
+  145  cd project2
+  146  ls -al
+  147  ls -al
+  148  git remote v
+  149  git remote -v
+  150  git remote set-url origin git@github.com:gxsoft/hyperblogwin.git
+  151  git remote -v
+  152  code .
+  153  code .
+  154  git pull
+  155  git pull origin main
+  156  git pull
+  157  git pull
+  158  eval $(ssh-agent -s)
+  159  ls -al
+  160  cd ..
+  161  cd ..
+  162  ls -al
+  163  cd ssh
+  164  ls
+  165  ls -al
+  166  cd .ssh
+  167  ls -al
+  168  ssh-add /e/platzi/ssh/.ssh/id_rsa
+  169  clear
+  170  git pull 
+  171  cd ..
+  172  ;s
+  173  ls
+  174  cd ..
+  175  ls
+  176  cd git
+  177  ls
+  178  cd project2
+  179  git pull
+  180  git push
+  181  git commit
+  182  git add
+  183  git commit -am "con private/pub key BLOG Version 2.1"
+  184  git push
+  185  git pull
+  186  git status
+  187  mc
+  188  cd /e/platzi/git/project2
+  189  code .
+  190  eval $(ssh-agent -s)
+  191  ssh-add /e/platzi/ssh/.ssh/id_rsa
+  192  git pull
+  193  git pull
+  194  git commit -am "2do commit con SSH, 21 jul 2021, 21:21hs"
+  195  git push
+  196  git status
+  197  git add .
+  198  git push -ac "agrego SSH.TXT, con los comandos de poner las SSH Keys"
+  199  git commit -ac "agrego SSH.TXT, con los comandos de poner las SSH Keys"
+  200  git push 
+  201  git add .
+  202  git status
+  203  git commit -c "agrego SSH.TXT, con los comandos de poner las SSH Keys"
+  204  git push
+  205  pwd
+  206  ls
+  207  git log --all --grah
+  208  git  log
+  209  git log --all
+  210  git log --all --graph 
+  211  git log --all --graph --decorate --oneline
+  212  git log --all --graph --decorate 
+  213  git log --all --graph --decorate >>log-decorate.txt
+  214  git log --all --graph --decorate --oneline >>log-decorate.txt
+  215  git log --all --graph --decorate --oneline
+  216  clear
+  217  git log --all --graph --decorate --oneline
+  218  alias gittree "git log --all --graph --decorate --oneline"
+  219  alias gittree "git log --all --graph --decorate --oneline"
+  220  alias gittree="git log --all --graph --decorate --oneline"
+  221  gittree
+  222  git tag -a v0.1 -m "Result of first class of course, with Freddy"
+  223  git show-ref --tags
+  224  git status
+  225  git add .
+  226  git pull origin main
+  227  git add .
+  228  git commit -ac -m "con TAGs"
+  229  git commit -am "con TAGs"
+  230  git push 
+  231  git push origin --tags
+  232  gittree
+  233  git tag -a v0.2dormido -m "Dormido seguún Freddy"
+  234  git pull origin main
+  235  git push origin --tags
+  236  git tag -a v0.3MALO -m "MALO Dormido seguún Freddy"
+  237  git push
+  238  git push origin --tags
+  239  git tag -d v0.3MALO
+  240  git push origin --tags
+  241  git tag
+  242  git push origin :refs/tags/
+  243  git push origin :refs/tags/v0.3MALO
+  244  history 
+  245  history >>history_FREDDY.txt
+  246  git commit -am "Conl el History.txt de los commandos con Freddy"
+  247  git add .
+  248  git commit -m "Conl el History.txt de los commandos con Freddy"
+  249  git push
+  250  git push origin main
+  251  git status
+  252  git add .
+  253  git push
+  254  l
+  255  /e/platzi
+  256  cd e/
+  257  cd /e
+  258  cd /platzi
+  259  cd /Platzi
+  260  ls
+  261  cd Platzi
+  262  ls
+  263  cd git
+  264  ls
+  265  cd project2
+  266  gitk
+  267  exit
+  268  cd 
+  269  cd e/Platzi
+  270  de e/
+  271  cd /e
+  272  cd /Platzi
+  273  ls
+  274  cd Platzi
+  275  ls
+  276  cd Git
+  277  ls
+  278  cd project2/
+  279  gitl
+  280  gitk
+  281  d:
+  282  cd github
+  283  ls
+  284  mc
+  285  /e
+  286  cd e/
+  287  cd d/
+  288  cd github
+  289  ls
+  290  cd /d
+  291  cd /github
+  292  cd /GitHub
+  293  ls
+  294  cd github
+  295  cd gitlocal
+  296  code .
+  297  eval $(ssh-agent -s)
+  298  git remote set-url origin git@github.com:gxsoft/gilocal.git
+  299  git pull
+  300  ssh-keygen -t rsa -b 4096 -C "gxsoft@gmail.com"
+  301  eval $(ssh-agent -s)
+  302  git remote set-url origin git@github.com:gxsoft/gilocal.git
+  303  git pull
+  304  git remote set-url origin 
+  305  git remote set-url origin git@github.com:gxsoft/gitlocal.git
+  306  git pull
+  307  git add .
+  308  code .
+  309  git add .
+  310  git status
+  311  git commit -m "restoring Blog 01, from Freddy casses"
+  312  git push
+  313  git status
+  314  git add .
+  315  git commit -m "agrego history de Freddy"
+  316  git push
+  317  git branch -a cabecera
+  318  git branch
+  319  git log
+  320  clear
+  321  git log
+  322  git status
+  323  git reset 34c11e0b8be50ce306d3c5dce81902291b3a8de8 --hart
+  324  git reset 34c11e0b8be50ce306d3c5dce81902291b3a8de8 --hard
+  325  git log
+  326  git status
+  327  ls -al
+  328  git add .
+  329  git status
+  330  git status
+  331  git diff
+  332  clear
+  333  git diff
+  334  git add .
+  335  git status
+  336  git diff
+  337  git commit -m "Start my real Project HTML, CSS"
+  338  git log
+  339  git add .
+  340  git commit -m "Add VIDA"
+  341  git add .
+  342  git commit -m "Add and Maestria"
+  343  git log -stat
+  344  git log --stat
+  345  git log --stat
+  346  git log --stat
+  347  git checkout 
+  348  git checkout 
+  349  git checkout 8c16dfd74d72b53392a48aa0f3fd3f06aefdfcca8c16dfd74d72b53392a48aa0f3fd3f06aefdfcca
+  350  git checkout 8c16dfd74d72b53392a48aa0f3fd3f06aefdfcca
+  351  git checkout --help
+  352  git checkout 
+  353  clear
+  354  git log
+  355  git log --stat
+  356  git checkout main
+  357  git log
+  358  git log --stat
+  359  git checkout 
+  360  git checkout 34c11e0b8be50ce306d3c5dce81902291b3a8de8
+  361  git checkout main
+  362  git log --stat
+  363  git checkout 
+  364  git checkout 34c11e0b8be50ce306d3c5dce81902291b3a8de8 historia.txt
+  365  git status
+  366  git 
+  367  git checkout 34c11e0b8be50ce306d3c5dce81902291b3a8de8 historia.txt
+  368  git commit -a "historia TXT, vida laboral"
+  369  git status
+  370  git log
+  371  git log --stat
+  372  git status
+  373  git commit -a "FINAL clase Hostoria TXT"
+  374  git commit -m "FINAL clase Historia TXT"
+  375  git status
+  376  git add .
+  377  git commit -m "FINAL clase Historia TXT v2"
+  378  git status
+  379  git push
+  380  git pull
+  381  git status
+  382  git add .
+  383  git status
+  384  git commit -m "restoring one initial version, for study"
+  385  git push
+  386  git log
+  387  clear
+  388  git log
+  389  git status
+  390  git reset a807b1c16b3c55f21a249173731ead26188d5260
+  391  git status
+  392  git reset main
+  393  git status
+  394  git add .
+  395  git log
+  396  git pull
+  397  dit log
+  398  git log
+  399  code .
+  400  xfce
+  401  git diff
+  402  clear
+  403  git log
+  404  gittree
+  405  code .
+  406  git log --stat
+  407  git push
+  408  git checkout 37feafc107fe6109c3cd08aae73d978a83cb68fd historia.txt
+  409  git stat
+  410  git status
+  411  git checkout main
+  412  git pull
+  413  git s
+  414  git checkout main
+  415  git status
+  416  git checkout 37feafc107fe6109c3cd08aae73d978a83cb68fd historia.txt
+  417  git commit -m "cambiamos hacia vida LABORAL"
+  418  git log --stat
+  419  git status
+  420  git add .
+  421  git commit -m "end of class number 12, with Freddy"
+  422  git push
+  423  cd 
+  424  cd /e/platzi/git
+  425  ls
+  426  md project3
+  427  cd project3
+  428  mkdir project3
+  429  cd project3
+  430  ls
+  431  git init
+  432  git init main
+  433  git brancj -m --help
+  434  git branch -m --help
+  435  git branch --help
+  436  code .
+  437  code .
+  438  git add .
+  439  git commit - "1st commit, fiel History.TXT with notes"
+  440  git push
+  441  git branch
+  442  cd /e/platzi/git
+  443  cd project3
+  444  ls
+  445  git log
+  446  git status
+  447  git add
+  448  git add .
+  449  git log --stat
+  450  git commit -m "first commit"
+  451  git add .
+  452  git commit -m "first commit"
+  453  git init
+  454  git add .
+  455  git status
+  456  git init
+  457  ls -al
+  458  git add .
+  459  git log
+  460  git add .
+  461  git status
+  462  git log
+  463  git commit -m "this is the 2nd COMMIT, reviewing the class"
+  464  git log
+  465  clear
+  466  git log
+  467  git status
+  468  git add .
+  469  git status
+  470  git commit -m "this is the 3nd COMMIT, reviewing the class"
+  471  git log
+  472  git commit -m "this is the 4th COMMIT, reviewing the class... keep learnig"
+  473  git add .
+  474  git commit -m "this is the 4th COMMIT, reviewing the class... keep learnig"
+  475  git log
+  476  git push
+  477  git remote add master git@github.com:gxsoft/project3.git
+  478  git pull
+  479  git pull remote main
+  480  git pull remote master
+  481  git clone
+  482  git clone --origin
+  483  git clone -b main
+  484  git clone -branch main
+  485  git clone -branch master
+  486  git clone master
+  487  git clone origin
+  488  git log
+  489  git clone remote https://github.com/gxsoft/project3
+  490  git clone main https://github.com/gxsoft/project3
+  491  git clone https://github.com/gxsoft/project3
+  492  git status
+  493  git add .
+  494  ls -al
+  495  cd ..
+  496  cd project3
+  497  ls
+  498  cd project3
+  499  cd /e/platzi/git/project3
+  500  git status
+  501  git add .
+  502  git log
+  503  git commit -m "2nd local commit, I didn't know how I can clone to REMOTE Server" 
+  504  git push
+  505  eval $(ssh-agent -s)
+  506  git remote set-url origin git@github.com:gxsoft/<project>.git
+  507  git remote set-url origin git@github.com:gxsoft/<project>.git
+  508  git remote set-url origin git@github.com:gxsoft/project3.git
+  509  git pull
+  510  git push
+  511  git add .
+  512  git commit -m "3rd local commit, I add CSS/STYLE.CSS, <link rel="stylesheet" href="css/style.css" />" 
+  513  git push
+  514  git log
+  515  git status
+  516  git log
+  517  git log --stat
+  518  git add ..
+  519  git add .
+  520  git commit -m "4th local commit, put color: deeppink />" 
+  521  git push
+  522  git add .
+  523  git commit -m "5th step, make the SQURE BOX"
+  524  git status
+  525  git commit -m "5th step, make the SQUARE BOX"
+  526  git add .
+  527  git commit -m "5th step, make the SQUARE BOX"
+  528  git status
+  529  git status
+  530  git add .
+  531  git commit -m "6th step, a little touch"
+  532  git log
+  533  git log --stat
+  534  git status
+  535  git show
+  536  q
+  537  clear
+  538  git branch cabecera
+  539  git show
+  540  git status
+  541  git checkot cabecera
+  542  git checkout cabecera
+  543  git status
+  544  git status
+  545  git add . 
+  546  git status
+  547  git diff
+  548  git log
+  549  git show
+  550  git commit -m "Initial structure of CABECERA" 
+  551  git status
+  552  git show
+  553  git log
+  554  git checkout main
+  555  git log
+  556  git checkout cabecera
+  557  git log
+  558  git status
+  559  git show
+  560  git diff
+  561  clear
+  562  git diff
+  563  clear
+  564  git add .
+  565  git commit -m "adding CABECERA & CSS & contenido"
+  566  git checkout master
+  567  git add .
+  568  git diff
+  569  git log
+  570  git add .
+  571  git commit -m "adding content to BLOG **Body**, without cabecera"
+  572  git log
+  573  git add .
+  574  git commit -m "changing COURIER Font"
+  575  git add .
+  576  git log
+  577  git status
+  578  git checkout cabecera
+  579  git checkout master
+  580  git checkout cabecera
+  581  git checkout master
+  582  git merge cabecera
+  583* git checkout cabecera
+  584  git merge cabecera
+  585  git checkout master
+  586  git merge cabecera
+  587  git merge cabecera
+  588  git merge cabecera -allow-unrelated-histories
+  589  git merge cabecera --addmerge cabecera --allow-unrelated-historieallow-unrelated-histories
+  590  git add .
+  591  git commit -m "MAIN BLOG + error in footer when try to MERGE"
+  592  git merge cabecera --addmerge cabecera --allow-unrelated-historieallow-unrelated-histories
+  593  git merge cabecera --allow-unrelated-historieallow-unrelated-histories
+  594  git merge cabecera
+  595  git merge cabecera --allow-unrelated-histories
+  596  git checkout master
+  597  git add . 
+  598  git commit -m " merge & NOT Merged, un kilombo hice"
+  599  git commit -m "NOW Merge & NOT Merged, un kilombo hice"
+  600  log
+  601  git log
+  602  git add .
+  603  git commit -m "add all, merge and not MERGED"
+  604  log
+  605  history >>history_FREDDY_2.txt
