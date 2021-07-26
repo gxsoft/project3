@@ -50,7 +50,6 @@ body
     font-size:0.8em;
 }
 
-
 #container
 {
     width: 70%;
@@ -61,5 +60,6 @@ body
 }
 #container h1
 {
-    font-size: 20px;
+    color:darkred;
+    font-size: 30px;
 }
