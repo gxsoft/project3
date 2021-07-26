@@ -33,7 +33,7 @@ body
             https://html-css-js.com/css/generator/box-shadow/
             */
 {
-    background: #33A;
+    background: rgb(199, 63, 226);
     box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.5));
     color: white;
     font-weight: bold;
