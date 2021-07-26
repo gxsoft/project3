@@ -1,10 +1,9 @@
 title
 {
     color:rgb(245, 191, 65);
-    background-color:rgb(250, 189, 45))
+    background-color:rgb(250, 189, 45)
     text-align: left;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
+    font-family: "Helvetica";
 }
 body
 {
@@ -22,7 +21,7 @@ body
 {
     background: rgb(238, 200, 62);
     color: white;
-    font-weight:
+    font-weight:  normal;
     margin: 0;
     padding: 0.5em;
     /* BOX SHADOW */
@@ -34,7 +33,7 @@ body
             */
 {
     background: rgb(199, 63, 226);
-    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.5));
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
