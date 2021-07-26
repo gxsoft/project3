@@ -1,13 +1,17 @@
 title
 {
-    color:rgb(250, 189, 45);
+    color:rgb(245, 191, 65);
     background-color:rgb(250, 189, 45))
     text-align: left;
+<<<<<<< HEAD
 <<<<<<< HEAD
     font-family:Courier, monospace;
 =======
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 >>>>>>> branchtest
+=======
+    font-family:Courier, monospace;
+>>>>>>> cabecera
     
 }
 body
@@ -25,10 +29,14 @@ body
             */
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     background: rgb(43, 76, 241);
 =======
     background: rgb(64, 187, 7);
 >>>>>>> branchtest
+=======
+    background: rgb(238, 200, 62);
+>>>>>>> cabecera
     color: white;
     font-weight:
     margin: 0;
@@ -59,8 +67,11 @@ body
 }
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 =======
 >>>>>>> branchtest
+=======
+>>>>>>> cabecera
 #container
 {
     width: 90%;
@@ -72,10 +83,16 @@ body
 #container h1
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     color:darkred;
     font-size: 30px;
 }
 =======
     font-size: 11px;
+}
+>>>>>>> cabecera
+=======
+    color:darkred;
+    font-size: 30px;
 }
 >>>>>>> cabecera
