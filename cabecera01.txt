@@ -1,0 +1,31 @@
+* 710d236 (master) Master01.txt
+* 65b82cc Master 2.1.1 - TITLE,Red
+* 02c7248 master 2.1
+| * 824fcc0 (branchtest) branchtest 1.1.1, celeste
+| * edf49cb branchtest 2.0, paragrph
+| * 360d710 Version [branchtest] en la cabecera, gree'n
+|/  
+* 955951e (origin/master) others, history, how to SSH, aliases for GIT
+* b957a21 Add history_FREDDY_2, quiero probar nuevamente las BRANCHs
+* a626c55 add all, merge and not MERGED
+*   085bb13  merge & NOT Merged, un kilombo hice
+|\  
+* | 8ea5bc6 MAIN BLOG + error in footer when try to MERGE
+* | caf1c6e changing COURIER Font
+* | d3b9083 adding content to BLOG **Body**, without cabecera
+* | 0a4720e this is the 4th COMMIT, reviewing the class... keep learnig
+* | 22fbde7 this is the 3nd COMMIT, reviewing the class
+* | 100bf17 this is the 2nd COMMIT, reviewing the class
+ /  
+| * e5ee038 (HEAD -> cabecera) cabecera 2.1,1-toque border, font
+| * 1d4064a cabecera 2.1-toque
+|/  
+* 40ea38d adding CABECERA & CSS & contenido
+* d6b9626 Initial structure of CABECERA
+* 15bba27 (main) 6th step, a little touch
+* 4ff99e9 5th step, make the SQUARE BOX
+* 6e2fdbe 5th step, make the SQURE BOX
+* 1cd5696 (origin/main, origin/HEAD) 4th local commit, put color: deeppink />
+* d784345 3rd local commit, I add CSS/STYLE.CSS, <link rel=stylesheet href=css/style.css />
+* 78322d4 2nd local commit, I didn't know how I can clone to REMOTE Server
+* 4ac06d6 Initial commit
