@@ -1,3 +1,5 @@
+alias gittree="git log --all --graph --decorate --oneline"
+
 * 9334aa4 (cabecera) Cabecera01.txt
 * e5ee038 cabecera 2.1,1-toque border, font
 * 1d4064a cabecera 2.1-toque

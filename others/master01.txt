@@ -1,3 +1,5 @@
+alias gittree="git log --all --graph --decorate --oneline"
+
 * 65b82cc (HEAD -> master) Master 2.1.1 - TITLE,Red
 * 02c7248 master 2.1
 | * 824fcc0 (branchtest) branchtest 1.1.1, celeste

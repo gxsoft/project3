@@ -1,0 +1,42 @@
+git show-branch --all >>GitShowBranchAll.txt
+
+! [branchtest] Branch03 - BranchTest - 2021-07-26_07-20-07.png
+ ! [cabecera] cabecera 2.1.1.1 - Freddy Color Lila
+  ! [main] 6th step, a little touch
+   * [master] final MASTER 7:52hs
+    ! [origin/HEAD] 4th local commit, put color: deeppink />
+     ! [origin/main] 4th local commit, put color: deeppink />
+      ! [origin/master] final MASTER 7:52hs
+-------
+   *  + [master] final MASTER 7:52hs
+   -  - [master^] merge MASTER + CABECER, fixed
+ + *  + [cabecera] cabecera 2.1.1.1 - Freddy Color Lila
+   -  - [master~2] MERGE:master + cabecera 2.1.1.1
+ + *  + [cabecera^] cabecera 2.1.1.1
+   *  + [master~3] merge 3 Branchest.TXT Master+Cebecera+BranchTest 7:31hs
+   -  - [master~4] merge Master + Cabecera + branchtest 07:29hs bis?
++  *  + [branchtest] Branch03 - BranchTest - 2021-07-26_07-20-07.png
++  *  + [branchtest^] BranchTest01.txt
++  *  + [branchtest~2] branchtest 1.1.1, celeste
++  *  + [branchtest~3] branchtest 2.0, paragrph
++  *  + [branchtest~4] Version [branchtest] en la cabecera, gree'n
+   -  - [master~5] merge Master + Cabecera 07:28hs
+ + *  + [cabecera~2] Branch02 - CABECERA 2021-07-26_07-16-54.png
+ + *  + [cabecera~3] Cabecera01.txt
+ + *  + [cabecera~4] cabecera 2.1,1-toque border, font
+ + *  + [cabecera~5] cabecera 2.1-toque
+   *  + [master~6] Branch01 - Master 20210726 9724hs.png
+   *  + [master~7] Branch01 MASTER - IMG:Branch01 - MASTER - 2021-07-26_07-11-31.png
+   *  + [master~8] Master01.txt
+   *  + [master~9] Master 2.1.1 - TITLE,Red
+   *  + [master~10] master 2.1
++  *  + [master~11] others, history, how to SSH, aliases for GIT
++  *  + [master~12] Add history_FREDDY_2, quiero probar nuevamente las BRANCHs
++  *  + [master~13] add all, merge and not MERGED
+-  -  - [master~14]  merge & NOT Merged, un kilombo hice
+++ *  + [cabecera~6] adding CABECERA & CSS & contenido
+++ *  + [cabecera~7] Initial structure of CABECERA
++++*  + [main] 6th step, a little touch
++++*  + [main^] 5th step, make the SQUARE BOX
++++*  + [main~2] 5th step, make the SQURE BOX
++++*+++ [origin/HEAD] 4th local commit, put color: deeppink />

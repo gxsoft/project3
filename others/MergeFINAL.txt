@@ -1,4 +1,7 @@
-*   4b1f801 (HEAD -> master, origin/master) merge Master + Cabecera + branchtest 07:29hs bis?
+alias gittree="git log --all --graph --decorate --oneline"
+
+* b2b12c4 (HEAD -> master, origin/master) merge 3 Branchest.TXT Master+Cebecera+BranchTest 7:31hs
+*   4b1f801 merge Master + Cabecera + branchtest 07:29hs bis?
 |\  
 | * 1598327 (branchtest) Branch03 - BranchTest - 2021-07-26_07-20-07.png
 | * 03ab677 BranchTest01.txt
