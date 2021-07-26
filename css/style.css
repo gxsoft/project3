@@ -11,7 +11,7 @@ body
     color: rgb(43, 8, 241);
     text-align:center;
     font-family:"Verdana";
-    font-size: 16px; 
+    font-size: 12px; 
     margin: 0;
     padding: 0;
 }
@@ -53,13 +53,13 @@ body
 
 #container
 {
-    width: 70%;
+    width: 90%;
     padding:lem;
     text-align:left;
-    border:1px solid #DDD;
+    border:21px solid #DDD;
     margin: 0 auto;
 }
 #container h1
 {
-    font-size: 20px;
+    font-size: 11px;
 }
