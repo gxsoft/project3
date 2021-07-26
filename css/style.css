@@ -1,9 +1,9 @@
 title
 {
-    color:rgb(250, 189, 45);
+    color:rgb(245, 191, 65);
     background-color:rgb(250, 189, 45))
     text-align: left;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:Courier, monospace;
     
 }
 body
@@ -20,7 +20,7 @@ body
             https://html-css-js.com/css/generator/box-shadow/
             */
 {
-    background: rgb(241, 149, 43);
+    background: rgb(238, 200, 62);
     color: white;
     font-weight: bold;
     margin: 0;
@@ -50,7 +50,6 @@ body
     font-size:0.8em;
 }
 
-
 #container
 {
     width: 90%;
@@ -61,5 +60,6 @@ body
 }
 #container h1
 {
-    font-size: 11px;
+    color:darkred;
+    font-size: 30px;
 }
