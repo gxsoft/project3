@@ -21,7 +21,7 @@ body
 {
     background: rgb(238, 200, 62);
     color: white;
-    font-weight:  normal;
+    font-weight:  bold;
     margin: 0;
     padding: 0.5em;
     /* BOX SHADOW */
@@ -64,4 +64,19 @@ body
     font-size: 30px;
 
 }
+#post {
+    padding:1em;
+}
 
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+    
+}
+#footer #heart
+{
+    color: green;
+}
