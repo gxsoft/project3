@@ -19,7 +19,8 @@ body
             https://html-css-js.com/css/generator/box-shadow/
             */
 {
-    background: rgb(238, 200, 62);
+    background: orange;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight:  normal;
     margin: 0;
@@ -28,6 +29,13 @@ body
     -webkit-box-shadow: 5px 5px 15px 5px #A0A0A0; 
     box-shadow: 5px 5px 15px 5px #A0A0A0;
 }
+
+#cabeceraGab #logo {
+    width: 20px;
+    vertical-align: middle;
+}
+
+
 #cabecera /* This Header generated from 
             https://html-css-js.com/css/generator/box-shadow/
             */
@@ -41,6 +49,11 @@ body
     /* BOX SHADOW */
     -webkit-box-shadow: 5px 5px 15px 5px #A0A0A0; 
     box-shadow: 5px 5px 15px 5px #A0A0A0;
+}
+
+#cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline {
